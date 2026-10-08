@@ -7,7 +7,7 @@ barra flotante propia, lanzador de apps, paneles rápidos, widgets de escritorio
 
 ## Descargar
 
-Ve a [**Releases**](../../releases/latest) y baja `WindowsExpressive-Setup-<versión>.exe`.
+Ve a [**Releases**](../../releases) y baja `WindowsExpressive-Setup-<versión>.exe`.
 
 Requisitos: Windows 10 o 11 de 64 bits.
 
